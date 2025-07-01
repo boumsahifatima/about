@@ -150,6 +150,7 @@ footer {
   border-top: 4px solid black;
 }
 
+
 /* Responsive tweaks */
 @media (max-width: 768px) {
   .nav {
